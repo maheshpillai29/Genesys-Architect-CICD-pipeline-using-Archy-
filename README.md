@@ -73,4 +73,4 @@ This Python script automates the management and transformation of Genesys Cloud 
 1. Configure the input paths, flow names, and divisions in the script.
 2. Run the script:
    ```bash
-   python script_name.py
+   python CICD_Archy.py
